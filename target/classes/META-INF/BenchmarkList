@@ -1,1 +1,0 @@
-JMH S 18 leet.sudoku.Sudoku S 50 leet.sudoku.generated.Sudoku_benchMarkTest_jmhTest S 13 benchMarkTest S 3 All E A 1 1 1 E I 1 5 E E E E E I 1 1 I 1 2 E E E E M 1 10 iterations 5 2 10 2 20 2 30 2 50 3 100 U 12 MILLISECONDS E E 
